@@ -21,8 +21,8 @@ function spam($no, $jum) {
          (o o)
  [•]-------------------oOO-{_}-OOo----------------[•]
  [•]                                              [•]
- [•]                     \033[1;35mTools Spam OYO\033[1;32m        [•]
- [•]               \033[1;35mAuthor Aditia Alfiansyah\033[1;32m    [•]
+ [•]                     \033[1;35mTools Spam OYO\033[1;32m          [•]
+ [•]               \033[1;35mAuthor Aditia Alfiansyah\033[1;32m      [•]
  [•]                                              [•]
  [•]----------------------------------------------[•]\n\n";
     sleep(2);
